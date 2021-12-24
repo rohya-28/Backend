@@ -1,0 +1,12 @@
+[+]Register a user
+[+]login a user
+[+]Who am i
+[+]Refresh the token
+[+]Logout the user
+[+]Add new product
+[+]update a product
+[+]Get all product
+[+]get a single product
+[+]Delete a product
+
+//Joi - Validation Library
